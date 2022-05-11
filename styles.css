@@ -75,11 +75,12 @@ nav a {
 /* header section */
 
 h1 {
+  color: #fff;
   font-size: 3rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
   text-align: center;
-  text-shadow: 5px 5px 8px #009fb7;
+  text-shadow: 5px 5px 8px #000;
 }
 
 .banner {
