@@ -1,7 +1,6 @@
 /* main styles */
 
 body {
-  color: white;
   background-color: #4d5057;
   font-family: "Public Sans", sans-serif;
 }
@@ -51,7 +50,7 @@ nav ul {
 
 nav li {
   display: flex;
-  background-color: #99d17b;
+  background-color: #00a8e8;
   margin-bottom: 1rem;
   height: 6.3rem;
   border-radius: 15px;
