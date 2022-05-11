@@ -91,9 +91,9 @@ h1 {
   height: 600px;
 }
 
-/* programs section */
+/* activities section */
 
-#programs article {
+#activities article {
   background-color: #a690a4;
 }
 
@@ -103,13 +103,13 @@ h1 {
   background-color: #009fb7;
 }
 
-/* mission section */
+/* schedule section */
 
-#mission {
+#schedule {
   text-align: center;
 }
 
-#mission p {
+#schedule p {
   background-color: #a690a4;
   border-radius: 10px;
   width: 100%;
