@@ -94,13 +94,15 @@ h1 {
 /* activities section */
 
 #activities article {
-  background-color: #a690a4;
+  color: #fff;
+  font-size: 1.2rem;
+  background-color: #003459;
 }
 
 /* instructors section */
 
 #instructors article {
-  background-color: #009fb7;
+  background-color: #007ea7;
 }
 
 /* schedule section */
