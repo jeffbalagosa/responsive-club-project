@@ -108,17 +108,23 @@ h1 {
 
 /* schedule section */
 
-#schedule {
-  text-align: center;
-}
-
-#schedule p {
+#schedule ul {
+  list-style: none;
   background-color: #a690a4;
   border-radius: 10px;
   width: 100%;
-  padding: 250px 2rem;
-  font-size: 2rem;
+  padding: 1rem;
+  font-size: 1.2rem;
   box-sizing: border-box;
+  line-height: 1.5;
+}
+
+/* contact section */
+
+#contact ul {
+  list-style: none;
+  font-size: 1.2rem;
+  line-height: 1.5;
 }
 
 /* media queries */
@@ -133,6 +139,10 @@ h1 {
     max-width: 750px;
     margin-left: 20%;
     margin-right: 20%;
+  }
+
+  #schedule {
+    text-align: center;
   }
 }
 
